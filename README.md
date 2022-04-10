@@ -46,4 +46,4 @@ true
 <https://ouiii-party.herokuapp.com/​.git>
 
 ### URL of the GitHub repository:
-<https://github.com/jcomp-03/OUiii-1>
+<https://github.com/adorsey5/OUiii-1>
