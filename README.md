@@ -43,7 +43,7 @@ true
 ![Screenshot](./public/images/dashboardsnapshot.png)
 
 ### URL of the deployed application (Heroku):
-<https://ouiii-party.herokuapp.com/​.git>
+<https://ouiii-party.herokuapp.com/>
 
 ### URL of the GitHub repository:
 <https://github.com/adorsey5/OUiii-1>
